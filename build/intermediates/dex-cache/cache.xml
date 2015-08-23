@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gogolearn/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/systembartint-1.0.3-50b75350b30eb08121f3c28d73a3d2f6af379fc6.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/gson-2.3-56436d2761704d93ad3edb6fa9cff0519ba51766.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/classes-0acc9041dd34349a97f892c6ffe2dd802936147e.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f0d45f9b0b5e0cbee4ab2d2ac557a8560b281f6c.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/exploded-aar/Materialist.libraries.material-ripple-master/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="4aec79aa533df98a698f22cb49f53fe36de786bd">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/classes-517ed5ccbc4c4f1037ab7b22e20aff92eb9b1881.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/classes-f37149abee672f8792a54db4e6a6ec444c73142f.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/classes-ca5e46fadb08fcc5fca277509a5fb77a31eeb991.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/exploded-aar/Materialist.libraries.FloatingActionButton/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="43d8edfb54dd2a81dc0985dbda6848bb5f6789f6">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/classes-5314c070e46be563e671c9eac97281cbc0d76dc3.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/exploded-aar/Materialist.libraries.material-dialogs/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="4efb7a51a6cb235bfbd748c5b5dd01d4e6a4fadf">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/classes-aeb49036b59fe4e8ef8ad969f154d76f57e0e84e.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b528bc918d69983a45222058d7eaa695e684ff33.jar" />
+    </item>
+    <item
+        jar="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/exploded-aar/com.cocosw/undobar/1.7.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="beb36f6a4b91dd74db444d79f0a97742be89ee96">
+        <dex dex="/Users/gogolearn/Dropbox/androidStudio/Materialist/app/build/intermediates/pre-dexed/debug/classes-57d1acfd2a023f35a41eda222ca3a530aa5559e9.jar" />
+    </item>
+
+</items>
